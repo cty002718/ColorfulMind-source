@@ -1,0 +1,13 @@
+[Say]卡琳;謝謝妳幫我找回了墜飾[w]
+哥哥，你還記得嗎？這是妳送我的生日禮物[w]
+只是自從她離開後，你變了，變得冷漠，變得暴躁[w]
+每天都窩在房間裡，大家都非常擔心你[w]
+我該走了，希望你也能趕快回來[w]
+[Say]米提;什麼意思？！[r]
+回去哪裡？[w]
+[Say]卡琳;你會知道的[w][Close]
+[Animation]sister,Base Layer.disappear;[Wait]3;
+[Open][Say]米提;奇怪...腦袋變得好沉重，好沉重...[w][Close]
+[Animation]hero,Base Layer.fall_up;[Wait]3;
+[Animation]LevelChanger,Base Layer.LevelEnd;[Wait]5;
+[End]

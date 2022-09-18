@@ -1,0 +1,18 @@
+露露的墓[w]
+不願再回想起這個傷心的事實[w][Close]
+[Animation]hero,Base Layer.Idle,B,Direction,true,F,AX,1,F,AY,0;
+[Move]3,0,0.3;
+[Animation]tomb_animation,Base Layer.tomb1;[Wait]2.5;
+[Open][Say]卡琳;哥哥，回家吧，很晚了...[w][Close]
+[Wait]2;
+[Open]哥哥？[w]
+[Say]米提;不要吵！[Wait]0.5;
+[Animation]tomb_animation,Base Layer.tomb2;[Wait]4;[w]
+[Speed]0.1;嗚....嗚...[w]
+[Say]卡琳;恩...對不起[w]
+...那...我先回家了...[w]
+...[w][Close]
+[Animation]tomb_animation,Base Layer.tomb3;[Wait]7;
+[Move]-3,0,0.3;[Wait]3;
+[Say];[Speed]0.01;[Open]或許我當時不該這麼兇...[w]
+[End]

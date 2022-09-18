@@ -1,0 +1,23 @@
+[Say]露露;嗚......[Choose]把髮飾的碎片還給露露;
+[1]
+[ItemList]Petal,-5;是、是我的花瓣！謝謝你，米提。[w][/1]
+......[w]
+米提，我真的真的很謝謝你......[w]
+跟你在一起的時間總是那麼快樂......[w]
+有很多話，我一直都沒有對你說，我想如果現在不說的話，以後可能沒有機會了。[w]
+你為我做過的事情我全都看到了，也全都牢牢的記在心裡。[w]
+你是我的力量，像太陽一樣照亮著我。[w]
+我對你的感謝，無法用言語形容。[w]
+唯一讓我遺憾的事情，是我沒有辦法成為你的力量......[w]
+但是，如果現在的我還有許願的資格的話，我最大的心願，就是希望你能開心的笑著。[w]
+我知道已經壞掉的東西是沒辦法修好的，但至少，我想盡我所能，把我從你手中帶走得東西還給你。[w]
+[Say];（露露摘下了他的髮飾，放在我的手上）[w]
+[Say]露露;現在，我該走了，米提，我已經不再難過了，所以......[w]
+[Speed]0.2;你 也 要 幸 福 喔 ！[w]
+[Close][Animation]Ruru,Base Layer.AnimeMove,F,AX,1,F,AY,0,F,AS,6,F,AT,0.83;[Wait]0.4;[Animation]hero,Base Layer.Idle,B,Direction,true,F,AX,1,F,AY,0;[Wait]0.5;[Animation]Ruru,Base Layer.AnimeMove,F,AX,0,F,AY,-1,F,AT,3,F,AS,6;
+[Wait]0.5;[Animation]hero,Base Layer.Idle,B,Direction,true,F,AX,0,F,AY,-1;
+[Wait]0.5;[Move]0,-18,0.2;[Wait]0.5;[Animation]hero,Base Layer.AnimeMove,F,AX,0,F,AY,-1,F,AS,3,F,AT,5;[Wait]1.5;[Animation]Ruru,Base Layer.Blend Tree,F,Look Y,-1,F,Look X,0,F,AT,3;
+[Wait]2;[Animation]Ruru,Base Layer.AnimeMove,F,AX,-1,F,AY,0,F,AT,5,F,AS,6;
+[Wait]1.5;[Animation]hero,Base Layer.Idle,F,AX,-1,F,AY,0,B,Direction,true;
+[Move]0,3,0.5;[Wait]3.5;[QuestComplete]End;
+[Open][Say]米提;[Speed]0.05;不要走......[w][End]

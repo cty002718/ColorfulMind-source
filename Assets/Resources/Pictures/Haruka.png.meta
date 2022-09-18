@@ -1,0 +1,1834 @@
+fileFormatVersion: 2
+guid: f12450954e896404eab64ff23bb41e7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1481732498464167550
+    second: Haruka_0
+  - first:
+      213: -1177320574310410129
+    second: Haruka_1
+  - first:
+      213: 3650510402065183522
+    second: Haruka_2
+  - first:
+      213: 5559310422971789279
+    second: Haruka_3
+  - first:
+      213: -7856555288143593627
+    second: Haruka_4
+  - first:
+      213: 2798396611808927013
+    second: Haruka_5
+  - first:
+      213: 6455075253564260016
+    second: Haruka_6
+  - first:
+      213: -8648884466454269452
+    second: Haruka_7
+  - first:
+      213: 9221979694626429007
+    second: Haruka_8
+  - first:
+      213: -1367531115950235266
+    second: Haruka_9
+  - first:
+      213: 2510228132400171204
+    second: Haruka_10
+  - first:
+      213: 4582713599727280927
+    second: Haruka_11
+  - first:
+      213: 640390395094635852
+    second: Haruka_12
+  - first:
+      213: -469244129290183
+    second: Haruka_13
+  - first:
+      213: -5056913077968417029
+    second: Haruka_14
+  - first:
+      213: -7492002220048487878
+    second: Haruka_15
+  - first:
+      213: 1198609900580242336
+    second: Haruka_16
+  - first:
+      213: 2339147679246394079
+    second: Haruka_17
+  - first:
+      213: -6723679421741607911
+    second: Haruka_18
+  - first:
+      213: -7137911549397070019
+    second: Haruka_19
+  - first:
+      213: -4595642337461184925
+    second: Haruka_20
+  - first:
+      213: -6104134548799143217
+    second: Haruka_21
+  - first:
+      213: -2046622100504500937
+    second: Haruka_22
+  - first:
+      213: -7057942800861601489
+    second: Haruka_23
+  - first:
+      213: 7603787028552659319
+    second: Haruka_24
+  - first:
+      213: 8747077668528820781
+    second: Haruka_25
+  - first:
+      213: 3030885554893949925
+    second: Haruka_26
+  - first:
+      213: 669594772681243281
+    second: Haruka_27
+  - first:
+      213: -8025158602352722379
+    second: Haruka_28
+  - first:
+      213: 4059068700400823427
+    second: Haruka_29
+  - first:
+      213: -4744386311404281061
+    second: Haruka_30
+  - first:
+      213: 2559986795286987098
+    second: Haruka_31
+  - first:
+      213: 1044691975253259944
+    second: Haruka_32
+  - first:
+      213: -8192130862916549776
+    second: Haruka_33
+  - first:
+      213: -4017638618927037768
+    second: Haruka_34
+  - first:
+      213: -4884581126292453194
+    second: Haruka_35
+  - first:
+      213: 6729343623544125592
+    second: Haruka_36
+  - first:
+      213: 9090008372678171034
+    second: Haruka_37
+  - first:
+      213: 388073636162767433
+    second: Haruka_38
+  - first:
+      213: -6282288263276965396
+    second: Haruka_39
+  - first:
+      213: -6827389058990412878
+    second: Haruka_40
+  - first:
+      213: -6419331877159646533
+    second: Haruka_41
+  - first:
+      213: 8827813038520718480
+    second: Haruka_42
+  - first:
+      213: 6962904566911527550
+    second: Haruka_43
+  - first:
+      213: -4356190360174949523
+    second: Haruka_44
+  - first:
+      213: -8489581940380210724
+    second: Haruka_45
+  - first:
+      213: -4763937925455745251
+    second: Haruka_46
+  - first:
+      213: 2527486490555161206
+    second: Haruka_47
+  - first:
+      213: 9182724404989984232
+    second: Haruka_48
+  - first:
+      213: 7880157377470365067
+    second: Haruka_49
+  - first:
+      213: 2718635440508791361
+    second: Haruka_50
+  - first:
+      213: -1167559427554698546
+    second: Haruka_51
+  - first:
+      213: -1498178897224246753
+    second: Haruka_52
+  - first:
+      213: -6763904042911863876
+    second: Haruka_53
+  - first:
+      213: -4460105936800030603
+    second: Haruka_54
+  - first:
+      213: -1395182388299001348
+    second: Haruka_55
+  - first:
+      213: -726384631608379705
+    second: Haruka_56
+  - first:
+      213: -1255677662902434703
+    second: Haruka_57
+  - first:
+      213: 7474626974541384482
+    second: Haruka_58
+  - first:
+      213: 6925690259148530140
+    second: Haruka_59
+  - first:
+      213: 5765966638062775077
+    second: Haruka_60
+  - first:
+      213: 8924735739529809267
+    second: Haruka_61
+  - first:
+      213: 1431451677227690431
+    second: Haruka_62
+  - first:
+      213: 1461726583989251741
+    second: Haruka_63
+  - first:
+      213: 6032041586944396213
+    second: Haruka_64
+  - first:
+      213: -7859300316474799215
+    second: Haruka_65
+  - first:
+      213: -7476859292835540277
+    second: Haruka_66
+  - first:
+      213: 7788735039966773512
+    second: Haruka_67
+  - first:
+      213: 5379314973838563455
+    second: Haruka_68
+  - first:
+      213: 6571918731162158238
+    second: Haruka_69
+  - first:
+      213: -4594764803486097636
+    second: Haruka_70
+  - first:
+      213: -8267119313483584553
+    second: Haruka_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Haruka_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 576
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76db175bdb209410800000000000000
+      internalID: 1481732498464167550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 577
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f681875ec2159afe0800000000000000
+      internalID: -1177320574310410129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 576
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223b6f39ed739a230800000000000000
+      internalID: 3650510402065183522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 576
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf2c5d0063a62d40800000000000000
+      internalID: 5559310422971789279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 528
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ffbfb5798e7f290800000000000000
+      internalID: -7856555288143593627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 528
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d178354e6e5d620800000000000000
+      internalID: 2798396611808927013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 528
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bebc1f1eb8059950800000000000000
+      internalID: 6455075253564260016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 530
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f17999c66df8f780800000000000000
+      internalID: -8648884466454269452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 481
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48d2101cad0bff70800000000000000
+      internalID: 9221979694626429007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 480
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e712e7e02bd850de0800000000000000
+      internalID: -1367531115950235266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 480
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c887e8cf2f16d220800000000000000
+      internalID: 2510228132400171204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 433
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13a81b1db1199f30800000000000000
+      internalID: 4582713599727280927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 432
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c451031ebaf13e800800000000000000
+      internalID: 640390395094635852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 432
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9385c5699355efff0800000000000000
+      internalID: -469244129290183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 384
+        width: 23
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe4aa7295c32d9b0800000000000000
+      internalID: -5056913077968417029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 384
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a6299dcaf070890800000000000000
+      internalID: -7492002220048487878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 385
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a30a54aa5152a010800000000000000
+      internalID: 1198609900580242336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 328
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd229a2cb62567020800000000000000
+      internalID: 2339147679246394079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 329
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914dc738031b0b2a0800000000000000
+      internalID: -6723679421741607911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 328
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f870c934b01fc90800000000000000
+      internalID: -7137911549397070019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 328
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36651e094aff830c0800000000000000
+      internalID: -4595642337461184925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 329
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc243ad08f1c94ba0800000000000000
+      internalID: -6104134548799143217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 320
+        width: 24
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73527f50b00f893e0800000000000000
+      internalID: -2046622100504500937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 288
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f216e9dca662d0e90800000000000000
+      internalID: -7057942800861601489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 288
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771ba901404168960800000000000000
+      internalID: 7603787028552659319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 288
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d229967abccd36970800000000000000
+      internalID: 8747077668528820781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 290
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb01569a5edf0a20800000000000000
+      internalID: 3030885554893949925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 289
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19abf19e5e0ea4900800000000000000
+      internalID: 669594772681243281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 288
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e789035c8e0a090800000000000000
+      internalID: -8025158602352722379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 249
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c2c462a75b45830800000000000000
+      internalID: 4059068700400823427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_30
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 248
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13a58f59cd882eb0800000000000000
+      internalID: -4744386311404281061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 250
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5185ca4d66e68320800000000000000
+      internalID: 2559986795286987098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 250
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6fba401dd7f7e00800000000000000
+      internalID: 1044691975253259944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 250
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073485a4264bf4e80800000000000000
+      internalID: -8192130862916549776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_34
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 250
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b286f266fa7e38c0800000000000000
+      internalID: -4017638618927037768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_35
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 248
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8c2c2685b763cb0800000000000000
+      internalID: -4884581126292453194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_36
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 245
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89833ec3f5e636d50800000000000000
+      internalID: 6729343623544125592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 209
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a991fca3472362e70800000000000000
+      internalID: 9090008372678171034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 209
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a0d2e7ae6b26500800000000000000
+      internalID: 388073636162767433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_39
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 209
+        width: 25
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce155ca0c14d0d8a0800000000000000
+      internalID: -6282288263276965396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_40
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 209
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbec7be2dd3041a0800000000000000
+      internalID: -6827389058990412878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_41
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 209
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbace863ba3f9e6a0800000000000000
+      internalID: -6419331877159646533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_42
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 209
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094d690df21b28a70800000000000000
+      internalID: 8827813038520718480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_43
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 208
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ae4b300d431a060800000000000000
+      internalID: 6962904566911527550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_44
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 195
+        width: 23
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b8acf82f3bb83c0800000000000000
+      internalID: -4356190360174949523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 168
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9e0187432fe2a80800000000000000
+      internalID: -8489581940380210724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_46
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 168
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fe23d72b713edb0800000000000000
+      internalID: -4763937925455745251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_47
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 168
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a932c629f631320800000000000000
+      internalID: 2527486490555161206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 168
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edfcb5b1379f6f70800000000000000
+      internalID: 9182724404989984232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_49
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 168
+        width: 25
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d7b4a4261fb5d60800000000000000
+      internalID: 7880157377470365067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_50
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 169
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a605977888ab520800000000000000
+      internalID: 2718635440508791361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 169
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca917af2eefbcfe0800000000000000
+      internalID: -1167559427554698546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_52
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 155
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a56fc0b36653be0800000000000000
+      internalID: -1498178897224246753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_53
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 128
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbe8631c19c122a0800000000000000
+      internalID: -6763904042911863876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_54
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 128
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5706c68f7458a12c0800000000000000
+      internalID: -4460105936800030603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf19e84820153ace0800000000000000
+      internalID: -1395182388299001348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_56
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 25
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6fdaea60d5be5f0800000000000000
+      internalID: -726384631608379705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174ce4681dfe29ee0800000000000000
+      internalID: -1255677662902434703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_58
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 128
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b871e81a53bb760800000000000000
+      internalID: 7474626974541384482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_59
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 130
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd16ee8c89efc1060800000000000000
+      internalID: 6925690259148530140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 72
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b2c70ab14d40050800000000000000
+      internalID: 5765966638062775077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 73
+        width: 37
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d48ecaed70bdb70800000000000000
+      internalID: 8924735739529809267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_62
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 72
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb92b4e57b98dd310800000000000000
+      internalID: 1431451677227690431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_63
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 80
+        width: 38
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eac656598194410800000000000000
+      internalID: 1461726583989251741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 33
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb443c3ddd16b350800000000000000
+      internalID: 6032041586944396213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_65
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 33
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b8765a0082ee290800000000000000
+      internalID: -7859300316474799215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 33
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc295f6561cdc3890800000000000000
+      internalID: -7476859292835540277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 37
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8018bda9045271c60800000000000000
+      internalID: 7788735039966773512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_68
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 35
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f785696c77a27aa40800000000000000
+      internalID: 5379314973838563455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_69
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 33
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9408a73445243b50800000000000000
+      internalID: 6571918731162158238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_70
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3
+        width: 33
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f5ebd51cd1c30c0800000000000000
+      internalID: -4594764803486097636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haruka_71
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 6
+        width: 34
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db2a0419ca454d80800000000000000
+      internalID: -8267119313483584553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

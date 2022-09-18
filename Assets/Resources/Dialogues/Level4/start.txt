@@ -1,0 +1,11 @@
+[Close]
+[Move]0,10,1000;
+[Wait]1;[Move]0,-10,0.15;
+[Wait]4.5;
+[Animation]hero,Base Layer.Idle,F,AX,-1,F,AY,0,B,Direction,true;[Wait]0.8;
+[Animation]hero,Base Layer.Idle,F,AX,1,F,AY,0,B,Direction,true;[Wait]0.8;
+[Animation]hero,Base Layer.Idle,F,AX,0,F,AY,1,B,Direction,true;[Wait]0.8;
+[Animation]hero,Base Layer.Idle,F,AX,0,F,AY,-1,B,Direction,true;[Wait]0.8;
+[Open][Say]米提;奇怪......這裡是哪裡？[w]
+我怎麼會跑到這森林裡呢？[w]
+[Wait]0.6;算了，到處看看吧[w][End]

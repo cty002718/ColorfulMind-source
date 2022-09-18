@@ -1,0 +1,2 @@
+土裡有個沾滿灰塵的十字架[w]
+[QuestComplete]UseShovel;怎麼做才能讓它發光呢...[w][End]

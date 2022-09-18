@@ -1,0 +1,28 @@
+[Close]
+[Wait]55;
+[Open][Say]卡琳;[Speed]0.2;. . .[r]
+[Speed]0.08;你醒啦[w]
+趕緊下來吃飯吧...媽媽煮好了[w]
+或是你想繼續休息也不勉強你[w]
+[Close][TriggerAnimation]End_Animations,trigger2;[Wait]2.5;
+[Open][Say]米提;抱歉...妹妹[w]
+我知道這陣子對你很冷淡，甚至惡言相向[w]
+你很努力想要關心我，想要我振作起來[r]
+但我...該怎麼說[w]
+失去了重要的人，讓我突然覺得活著沒有意義[w]
+每天早上起床，想起她已經離開的事實[w]
+我都恨不得再也不要醒來了[w]
+不過我已經想通了[w]
+妳，還有爸爸媽媽，還有我的朋友[r]
+都不希望看到我這樣子[w]
+我應該珍惜我所擁有的一切[w]
+...[w]
+對不起，妹妹[w]
+還有，謝謝妳[w]
+[Close][TriggerAnimation]End_Animations,trigger3;[Wait]3.5;
+[Open][Say]卡琳;沒什麼好謝的，真的[w]
+這本來就是我該做的[w]
+看到你振作起來我很開心[w]
+歡迎回來，哥哥[w]
+[Close][TriggerAnimation]End_Animations,trigger4;[Wait]9;
+[Animation]EndController,Base Layer.EndEnd;[Wait]10;

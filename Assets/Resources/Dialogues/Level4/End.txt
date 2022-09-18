@@ -1,0 +1,13 @@
+[Say]？？？;找到你了！哈哈！[w]
+[Close][Animation]Death,Base Layer.Move,F,AX,0,F,AY,-1,F,AS,5,F,AT,3;
+[Wait]1;[Animation]hero,Base Layer.Idle,F,AX,1,F,AY,0,B,Direction,true;[Wait]3;[Open]
+看來，你還不太清楚狀況啊......[w]
+[Say]死神;我就是死神。[w]
+你自殺了，正在瀕死的狀態中。[w]
+而現在，你的時間已經到了，我是來帶走你的靈魂的。[w]
+[Close][Animation]hero,Base Layer.AnimeMove,F,AX,1,F,AY,0,F,AS,-0.33,F,AT,3;[Wait]3;
+[Open]
+不想走？哼哼......有意思。[w]
+可惜，你並沒有選擇權，跟我走吧！[w]
+[Close][Animation]Death,Base Layer.MoveTo;[Wait]1;
+[QuestComplete]Level4End;

@@ -1,0 +1,18 @@
+[Close]
+[Animation]hero,Base Layer.fall_up;[Wait]7;
+[Animation]hero,Base Layer.Idle,F,AX,0,F,AY,-1,B,Direction,true;[Wait]0.8;
+[Animation]hero,Base Layer.Idle,F,AX,1,F,AY,0,B,Direction,true;[Wait]1;
+[Animation]hero,Base Layer.Idle,F,AX,-1,F,AY,0,B,Direction,true;[Wait]1;
+[Animation]hero,Base Layer.Idle,F,AX,0,F,AY,-1,B,Direction,true;[Wait]0.8;
+[Open][Say]米提;[Wait]1;
+[Speed]0.05;是教堂的鐘聲...[w]
+自從<b>她</b>離開之後...我就很少來這裡了[w]
+而且...我怎麼會在地上睡著？[w]
+[Wait]1.5;[Speed]0.01;咦...那是誰的哭聲啊？[w]
+[Close]
+[Animation]hero,Base Layer.Idle,F,AX,0,F,AY,1,B,Direction,true;[Wait]0.8;
+[Move]0,3.8,0.33;[Wait]4;
+[Open]妹妹怎麼也在這？[w][Close]
+[Wait]1;[Move]0,-3.8,0.33;[Wait]3.5;
+[Animation]MainCanvas,Base Layer.open_manual;
+[End]

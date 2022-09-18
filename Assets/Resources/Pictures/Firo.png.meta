@@ -1,0 +1,1930 @@
+fileFormatVersion: 2
+guid: 407b93d66871e4243b39ab89e0844a2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -212318566198561833
+    second: Firo_0
+  - first:
+      213: -1792785010686453974
+    second: Firo_1
+  - first:
+      213: 7648335867039424544
+    second: Firo_2
+  - first:
+      213: 4862901492323127438
+    second: Firo_3
+  - first:
+      213: -6922207069080956018
+    second: Firo_4
+  - first:
+      213: -3173375306589864895
+    second: Firo_5
+  - first:
+      213: 1766564912423206125
+    second: Firo_6
+  - first:
+      213: 8552838650024608856
+    second: Firo_7
+  - first:
+      213: -606428259133688474
+    second: Firo_8
+  - first:
+      213: 6545992906742403740
+    second: Firo_9
+  - first:
+      213: 4721210704333199820
+    second: Firo_10
+  - first:
+      213: -133756721344796691
+    second: Firo_11
+  - first:
+      213: -5828444202041791232
+    second: Firo_12
+  - first:
+      213: -1436065155893593267
+    second: Firo_13
+  - first:
+      213: -828743900547657181
+    second: Firo_14
+  - first:
+      213: 1811430340021160370
+    second: Firo_15
+  - first:
+      213: -3902218262202138277
+    second: Firo_16
+  - first:
+      213: -5060665459075795481
+    second: Firo_17
+  - first:
+      213: 6197313940465607005
+    second: Firo_18
+  - first:
+      213: -6385473520831158834
+    second: Firo_19
+  - first:
+      213: 1173647415689944581
+    second: Firo_20
+  - first:
+      213: 7076557433440918614
+    second: Firo_21
+  - first:
+      213: -5514704487937054458
+    second: Firo_22
+  - first:
+      213: 2521767402789648530
+    second: Firo_23
+  - first:
+      213: 7997122234675778070
+    second: Firo_24
+  - first:
+      213: 1897702343819542539
+    second: Firo_25
+  - first:
+      213: 8414186283991760985
+    second: Firo_26
+  - first:
+      213: 2205590992867728414
+    second: Firo_27
+  - first:
+      213: -647615708811786012
+    second: Firo_28
+  - first:
+      213: 845615853149507785
+    second: Firo_29
+  - first:
+      213: -7832657499886710487
+    second: Firo_30
+  - first:
+      213: 8981067459958747110
+    second: Firo_31
+  - first:
+      213: -4109643205694022782
+    second: Firo_32
+  - first:
+      213: 4720209915138514289
+    second: Firo_33
+  - first:
+      213: 6815047914187998832
+    second: Firo_34
+  - first:
+      213: -5267861016676298486
+    second: Firo_35
+  - first:
+      213: -7187714899922707887
+    second: Firo_36
+  - first:
+      213: 5127504166376088831
+    second: Firo_37
+  - first:
+      213: -6951718297171162729
+    second: Firo_38
+  - first:
+      213: -6925283763672390898
+    second: Firo_39
+  - first:
+      213: 3241175447296373274
+    second: Firo_40
+  - first:
+      213: 8219928459311699267
+    second: Firo_41
+  - first:
+      213: 5000992523258754784
+    second: Firo_42
+  - first:
+      213: 2846931054072101414
+    second: Firo_43
+  - first:
+      213: 7616089344553705057
+    second: Firo_44
+  - first:
+      213: 2140607295327927560
+    second: Firo_45
+  - first:
+      213: -8484826867630195027
+    second: Firo_46
+  - first:
+      213: 8708346730184239594
+    second: Firo_47
+  - first:
+      213: -3727402030363684840
+    second: Firo_48
+  - first:
+      213: -8940301966851799529
+    second: Firo_49
+  - first:
+      213: -4673935961588544093
+    second: Firo_50
+  - first:
+      213: 6935867197978773838
+    second: Firo_51
+  - first:
+      213: -4700121423981475393
+    second: Firo_52
+  - first:
+      213: 6652534217543560900
+    second: Firo_53
+  - first:
+      213: -7427520031222589101
+    second: Firo_54
+  - first:
+      213: -3891481297957748771
+    second: Firo_55
+  - first:
+      213: 7319956698559946004
+    second: Firo_56
+  - first:
+      213: 4711754164204230685
+    second: Firo_57
+  - first:
+      213: -4101551717479265347
+    second: Firo_58
+  - first:
+      213: 3295687796668338089
+    second: Firo_59
+  - first:
+      213: 7232929737500841714
+    second: Firo_60
+  - first:
+      213: 8309924998054679338
+    second: Firo_61
+  - first:
+      213: -7833501570020087695
+    second: Firo_62
+  - first:
+      213: -375554408934884351
+    second: Firo_63
+  - first:
+      213: -765297038092480986
+    second: Firo_64
+  - first:
+      213: -7013528689003285995
+    second: Firo_65
+  - first:
+      213: -4477270747430949536
+    second: Firo_66
+  - first:
+      213: 5057230788830115221
+    second: Firo_67
+  - first:
+      213: -7150822729490601016
+    second: Firo_68
+  - first:
+      213: -6845806067263163875
+    second: Firo_69
+  - first:
+      213: 4681705509597635725
+    second: Firo_70
+  - first:
+      213: 6028491022569211630
+    second: Firo_71
+  - first:
+      213: 7787675043360977890
+    second: Firo_72
+  - first:
+      213: -4265936818134973598
+    second: Firo_73
+  - first:
+      213: -3748792264906776117
+    second: Firo_74
+  - first:
+      213: 6609751305867845488
+    second: Firo_75
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Firo_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 577
+        width: 17
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3b3829361bd0df0800000000000000
+      internalID: -212318566198561833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 578
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a279367088fbe17e0800000000000000
+      internalID: -1792785010686453974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 577
+        width: 17
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020a3cdc2f8542a60800000000000000
+      internalID: 7648335867039424544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 577
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8013ab742f7c7340800000000000000
+      internalID: 4862901492323127438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 529
+        width: 17
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e835bb998516fef90800000000000000
+      internalID: -6922207069080956018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 529
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cf6bfc8f7e5f3d0800000000000000
+      internalID: -3173375306589864895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 529
+        width: 17
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec77ad9d69148810800000000000000
+      internalID: 1766564912423206125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 531
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854c2f3ff69c1b670800000000000000
+      internalID: 8552838650024608856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 482
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665f39816b88597f0800000000000000
+      internalID: -606428259133688474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 481
+        width: 17
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c929b94ddd908da50800000000000000
+      internalID: 6545992906742403740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 481
+        width: 16
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc95d8d1f1c158140800000000000000
+      internalID: 4721210704333199820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 434
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de72ce978fcc42ef0800000000000000
+      internalID: -133756721344796691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 433
+        width: 17
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d2d10f0e43d1fa0800000000000000
+      internalID: -5828444202041791232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 433
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b75ac6952121ce0800000000000000
+      internalID: -1436065155893593267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 385
+        width: 16
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322d51630d5bf74f0800000000000000
+      internalID: -828743900547657181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 385
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b983500c4e732910800000000000000
+      internalID: 1811430340021160370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 386
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5146655a2988d9c0800000000000000
+      internalID: -3902218262202138277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 329
+        width: 17
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5b2b8d397e4c9b0800000000000000
+      internalID: -5060665459075795481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 330
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51670fa138410650800000000000000
+      internalID: 6197313940465607005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 329
+        width: 17
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5223c1aad3267a0800000000000000
+      internalID: -6385473520831158834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 329
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e11c73b12a94010800000000000000
+      internalID: 1173647415689944581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 329
+        width: 17
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c55e41e7bf43260800000000000000
+      internalID: 7076557433440918614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 330
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60962438c75d773b0800000000000000
+      internalID: -5514704487937054458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 329
+        width: 17
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298bf69871e1ff220800000000000000
+      internalID: 2521767402789648530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 329
+        width: 16
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6125a374d4c7bfe60800000000000000
+      internalID: 7997122234675778070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 289
+        width: 17
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b004acc2a3ef55a10800000000000000
+      internalID: 1897702343819542539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 289
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9500b4358d135c470800000000000000
+      internalID: 8414186283991760985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 289
+        width: 17
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c9ea18255db9e10800000000000000
+      internalID: 2205590992867728414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 291
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e88f4da1f43307f0800000000000000
+      internalID: -647615708811786012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 290
+        width: 17
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c05a6f532b3cbb00800000000000000
+      internalID: 845615853149507785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 289
+        width: 17
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92114f7c08fcc4390800000000000000
+      internalID: -7832657499886710487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 289
+        width: 17
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef29a6654923ac70800000000000000
+      internalID: 8981067459958747110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_32
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 291
+        width: 17
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b920b374d97f6c0800000000000000
+      internalID: -4109643205694022782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 250
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d9b19b8ed818140800000000000000
+      internalID: 4720209915138514289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 249
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076417468f9e39e50800000000000000
+      internalID: 6815047914187998832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_35
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 251
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0191eec05cc4e6b0800000000000000
+      internalID: -5267861016676298486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 251
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a1353716b104c90800000000000000
+      internalID: -7187714899922707887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 251
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4ae256fdd882740800000000000000
+      internalID: 5127504166376088831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 251
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799878e5a09868f90800000000000000
+      internalID: -6951718297171162729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 249
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03e681db1374ef90800000000000000
+      internalID: -6925283763672390898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 245
+        width: 19
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1271d695e7fafc20800000000000000
+      internalID: 3241175447296373274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_41
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 210
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345d568f16d031270800000000000000
+      internalID: 8219928459311699267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 210
+        width: 18
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6f8391438176540800000000000000
+      internalID: 5000992523258754784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_43
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 210
+        width: 17
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62afef1c5b4528720800000000000000
+      internalID: 2846931054072101414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 210
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ed2c738e8c1b960800000000000000
+      internalID: 7616089344553705057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 210
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d71a16ef6f4bd10800000000000000
+      internalID: 2140607295327927560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 210
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae363e1be6df3a80800000000000000
+      internalID: -8484826867630195027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_47
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 209
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9e09956334ad870800000000000000
+      internalID: 8708346730184239594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_48
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 196
+        width: 17
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8105a1d1a9b954cc0800000000000000
+      internalID: -3727402030363684840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 169
+        width: 17
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71682199abaade380800000000000000
+      internalID: -8940301966851799529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_50
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 169
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad479aa108d22fb0800000000000000
+      internalID: -4673935961588544093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 169
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e490fc00876214060800000000000000
+      internalID: 6935867197978773838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 169
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9816a9770d5ceb0800000000000000
+      internalID: -4700121423981475393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_53
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 169
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea0dccf9c825c50800000000000000
+      internalID: 6652534217543560900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 170
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35911e062e52ce890800000000000000
+      internalID: -7427520031222589101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_55
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 170
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddff621a06eaef9c0800000000000000
+      internalID: -3891481297957748771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_56
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 153
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d18e4a5d5b59560800000000000000
+      internalID: 7319956698559946004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_57
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 129
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d185c5ac273836140800000000000000
+      internalID: 4711754164204230685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_58
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 129
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb41c3a17c5417c0800000000000000
+      internalID: -4101551717479265347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_59
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 129
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af810bf692acbd20800000000000000
+      internalID: 3295687796668338089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 129
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6d8194647806460800000000000000
+      internalID: 7232929737500841714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 129
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23103302c8c25370800000000000000
+      internalID: 8309924998054679338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_62
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 129
+        width: 18
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178ec7363dfc94390800000000000000
+      internalID: -7833501570020087695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_63
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 131
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cba9d3143c9caf0800000000000000
+      internalID: -375554408934884351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 73
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ec6d8066e1165f0800000000000000
+      internalID: -765297038092480986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_65
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 73
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512b2fd01d0faae90800000000000000
+      internalID: -7013528689003285995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_66
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 73
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d61201af98dd1c0800000000000000
+      internalID: -4477270747430949536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_67
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 81
+        width: 37
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595336bab94ee2640800000000000000
+      internalID: 5057230788830115221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb6cec3d9c23cc90800000000000000
+      internalID: -7150822729490601016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_69
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 34
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12b09707afcef0a0800000000000000
+      internalID: -6845806067263163875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_70
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 34
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d846e823b52c8f040800000000000000
+      internalID: 4681705509597635725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_71
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 37
+        width: 34
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee68edb05a089a350800000000000000
+      internalID: 6028491022569211630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 36
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3b4b9e031631c60800000000000000
+      internalID: 7787675043360977890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_73
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 5
+        width: 34
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2630ec8d0195cc4c0800000000000000
+      internalID: -4265936818134973598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_74
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 33
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1ef790c4d99fbc0800000000000000
+      internalID: -3748792264906776117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firo_75
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 7
+        width: 35
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f5defeacd8abb50800000000000000
+      internalID: 6609751305867845488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

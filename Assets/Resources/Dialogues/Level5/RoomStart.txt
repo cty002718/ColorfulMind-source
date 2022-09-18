@@ -1,0 +1,40 @@
+[Close]
+[Move]-10,10,1000;[Wait]4;
+[Move]10,-10,0.25;[Wait]4;
+[Wait]1.5;[Open][Say]米提;走開！我還不想死！我想要回到大家身邊！[w]
+[Close][Speed]0.01;
+[Wait]1;[Open]...咦？這裡又是什麼地方...？[w]
+[Close]
+[Animation]hero,Base Layer.Idle,F,AX,1,F,AY,0,B,Direction,true;[Wait]0.6;
+[Animation]hero,Base Layer.Idle,F,AX,-1,F,AY,0,B,Direction,true;[Wait]0.6;
+[Animation]hero,Base Layer.Idle,F,AX,1,F,AY,0,B,Direction,true;[Wait]0.6;
+[Open]先找看看出口在哪好了！[w]
+......[w]
+...！這邊有一扇門！[w]
+[Close]
+[Animation]hero,Base Layer.AnimeMove,F,AX,1,F,AY,0,F,AS,3,F,AT,1.33;[Wait]1.5;
+[Open]...是往出口的門嗎？[w][Wait]0.4;
+[Open]......！[w][Close][Wait]0.4;
+[Open]可惡！打不開啊！[w][Close][Wait]1;
+[Animation]hero,Base Layer.AnimeMove,F,AX,-1,F,AY,0,F,AS,4,F,AT,3;[Wait]1;
+[Move]-6,0,0.67;[Wait]3;
+[Animation]hero,Base Layer.AnimeMove,F,AX,1,F,AY,0,F,AS,4,F,AT,0.5;[Wait]0.8;
+[Animation]hero,Base Layer.AnimeMove,F,AX,-1,F,AY,0,F,AS,4,F,AT,0.5;[Wait]0.8;
+[Open]必須要想辦法離開這裡才行！[w]
+[Close]
+[Animation]grim-reaper,Base Layer.Move,F,AX,-1,F,AY,0,F,AS,4,F,AT,4;[Wait]4.5;
+[Say]死神;
+[Open]年輕的小伙子......[w]
+[Say]米提;......死神！？[w][Close][Wait]0.5;[Open]
+我還不想死！為什麼要帶我來這裡！[w]
+[Say]死神;哈哈哈！還不想死？[w]哈哈哈哈哈！[w]
+是你自己選擇來這裡的！還不想死？！[w]
+[Say]米提;我不知道你在說什麼！我會離開這個鬼地方的！[w]
+[Say]死神;講話放尊重點，這裡可是你的記憶迴廊！[w]
+是用來存放你自己放不下的事情呢！[w]
+好好享受一下使你痛苦的記憶吧！[r]
+一會就過來處理你！[w][Close]
+[Animation]grim-reaper,Base Layer.fadeout;[Wait]2.5;
+[Open][Say]米提;......我的記憶迴廊？[w][Close]
+[Move]-2,0,0.5;[Wait]2.5;
+[End]

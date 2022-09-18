@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: f691ff1670a3a3f45b82b828415dfe0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4305669517622596518
+    second: Church_Floor_0
+  - first:
+      213: -4688729722499702130
+    second: Church_Floor_1
+  - first:
+      213: -8182676811146743304
+    second: Church_Floor_1
+  - first:
+      213: -642129693641091078
+    second: Church_Floor_2
+  - first:
+      213: 3949936359288229162
+    second: Church_Floor_3
+  - first:
+      213: 5015274413955645400
+    second: Church_Floor_4
+  - first:
+      213: 6325546801757495675
+    second: Church_Floor_6
+  - first:
+      213: 2620522456129146118
+    second: Church_Floor_7
+  - first:
+      213: 1254971934641391349
+    second: Church_Floor_8
+  - first:
+      213: 5042611695256872254
+    second: Church_Floor_9
+  - first:
+      213: 7066660047433282442
+    second: Church_Floor_10
+  - first:
+      213: -7571091477739441594
+    second: Church_Floor_11
+  - first:
+      213: -6370949494147554541
+    second: Church_Floor_12
+  - first:
+      213: -6105051661595872225
+    second: Church_Floor_13
+  - first:
+      213: 4980445732088866957
+    second: Church_Floor_14
+  - first:
+      213: -6319293642350393550
+    second: Church_Floor_15
+  - first:
+      213: -5154495819119300078
+    second: Church_Floor_16
+  - first:
+      213: -934942607795534208
+    second: Church_Floor_17
+  - first:
+      213: -7746433731138178
+    second: Church_Floor_18
+  - first:
+      213: 2096784609301866220
+    second: Church_Floor_19
+  - first:
+      213: -2374713775302787132
+    second: Church_Floor_20
+  - first:
+      213: 6475943297003018862
+    second: Church_Floor_21
+  - first:
+      213: 3594199739024444885
+    second: Church_Floor_22
+  - first:
+      213: 1223098549833390799
+    second: Church_Floor_23
+  - first:
+      213: -4715915412450418119
+    second: Church_Floor_24
+  - first:
+      213: 201012696267628642
+    second: Church_Floor_25
+  - first:
+      213: 8912424584291977305
+    second: Church_Floor_26
+  - first:
+      213: -4766564772409356786
+    second: Church_Floor_27
+  - first:
+      213: 948299667397464868
+    second: Church_Floor_28
+  - first:
+      213: 7656955255661394374
+    second: Church_Floor_29
+  - first:
+      213: -1676858642769589433
+    second: Church_Floor_30
+  - first:
+      213: -5492442248055732564
+    second: Church_Floor_31
+  - first:
+      213: -1061619832321571467
+    second: Church_Floor_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Church_Floor_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a35f162d9fc0cb30800000000000000
+      internalID: 4305669517622596518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1b5cf3bca417e80800000000000000
+      internalID: -8182676811146743304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7dace1272b617f0800000000000000
+      internalID: -642129693641091078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d46cce03ef0d630800000000000000
+      internalID: 3949936359288229162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df7ee6e185d99540800000000000000
+      internalID: 5015274413955645400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b712dd05d4bd8c750800000000000000
+      internalID: 6325546801757495675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d038b2a47fd5420800000000000000
+      internalID: 2620522456129146118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6826f435e8a6110800000000000000
+      internalID: 1254971934641391349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e352404be94faf540800000000000000
+      internalID: 5042611695256872254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83b4b35fd1d11260800000000000000
+      internalID: 7066660047433282442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6427a531a641ee690800000000000000
+      internalID: -7571091477739441594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31361679037d597a0800000000000000
+      internalID: -6370949494147554541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f147b271cdf764ba0800000000000000
+      internalID: -6105051661595872225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88644c71091e1540800000000000000
+      internalID: 4980445732088866957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2370250d9eb5d48a0800000000000000
+      internalID: -6319293642350393550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2127829bc5d8778b0800000000000000
+      internalID: -5154495819119300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08648f8d6aa6603f0800000000000000
+      internalID: -934942607795534208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ded29d8aa74eff0800000000000000
+      internalID: -7746433731138178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6a1ff2e76491d10800000000000000
+      internalID: 2096784609301866220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 47
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfb9d337625b0fd0800000000000000
+      internalID: -2374713775302787132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6adf6b1e1c2fd950800000000000000
+      internalID: 6475943297003018862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd8a58ae9921e130800000000000000
+      internalID: 3594199739024444885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca5d1c96a159f010800000000000000
+      internalID: 1223098549833390799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_24
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 71
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9326a1a1be3bd8eb0800000000000000
+      internalID: -4715915412450418119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_25
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26020647bf32ac200800000000000000
+      internalID: 201012696267628642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9588e2a70fa4fab70800000000000000
+      internalID: 8912424584291977305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_27
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e46a50892c9ddb0800000000000000
+      internalID: -4766564772409356786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_28
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423d8dfe589092d00800000000000000
+      internalID: 948299667397464868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f1ca9c38f24a60800000000000000
+      internalID: 7656955255661394374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bcc23e2f99ab8e0800000000000000
+      internalID: -1676858642769589433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca64a4720ece6c3b0800000000000000
+      internalID: -5492442248055732564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Church_Floor_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57586ff136e5441f0800000000000000
+      internalID: -1061619832321571467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

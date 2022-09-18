@@ -1,0 +1,6 @@
+一朵枯萎的花[Choose]澆水,還是算了;
+[1][QuestComplete]water_flower;花朵恢復了生機，掉落了一片花瓣[w]
+似乎又枯萎了...[w][End]
+[/1]
+[2][End]
+[/2]

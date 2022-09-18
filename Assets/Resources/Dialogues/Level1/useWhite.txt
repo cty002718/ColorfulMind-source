@@ -1,0 +1,2 @@
+十字架發光了！[w]
+[QuestComplete]GainCross;獲得了一把發光的十字架[w][End]

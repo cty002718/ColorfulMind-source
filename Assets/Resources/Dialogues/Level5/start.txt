@@ -1,0 +1,9 @@
+[Close]
+[Move]0,10,1000;[Wait]1;
+[Move]0,-10,0.15;[Wait]7;
+[Animation]hero,Base Layer.Idle,B,Direction,true,F,AX,-1,F,AY,0;[Wait]1;
+[Animation]hero,Base Layer.Idle,B,Direction,true,F,AX,1,F,AY,0;[Wait]1;
+[Animation]hero,Base Layer.Idle,B,Direction,true,F,AX,0,F,AY,1;[Wait]1;
+[Animation]hero,Base Layer.Idle,B,Direction,true,F,AX,0,F,AY,-1;[Wait]1;
+[Open][Say]米提;這裡是哪裡？[w]
+不行，我得想辦法出去[w][End]

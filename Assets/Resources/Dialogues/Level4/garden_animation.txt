@@ -1,0 +1,21 @@
+[Animation]hero,Base Layer.Idle,B,Direction,true,F,AX,0,F,AY,1;
+[Animation]garden_animation,Base Layer.garden1;
+[Move]0,3,0.5;
+[Say]米提;哇，露露你看，我們去年種的花[r]
+變成像彩虹一樣，真美[w]
+[Say]露露;恩是啊，真的很漂亮呢[w]
+[Animation]garden_animation,Base Layer.garden2;
+[Say]米提;嘿，露露[w]
+[Animation]garden_animation,Base Layer.garden3;
+[Say]露露;恩？[w]
+[Say]米提;以後我們每年都一起來這裡，好不好[w][Close]
+[Animation]garden_animation,Base Layer.garden4;[Wait]2;
+[Open][Say]露露;...[w]
+[Say]米提;怎麼了？不喜歡這裡嗎？[w]
+[Say]露露;沒事...當然好啊！[w]
+差不多該去下一個地方了，走吧[w][Close]
+[Animation]garden_animation,Base Layer.garden5;[Wait]4;
+[Open][Say]米提;等等我啊！[w][Close]
+[Animation]garden_animation,Base Layer.garden6;
+[Move]0,-3,0.5;[Wait]2.5;
+[End]

@@ -1,0 +1,8 @@
+這裡似乎寫著什麼[Choose]靠近看,還是算了;
+[1]Wish My Life Away[r]
+...這是<b>卡琳最愛的歌曲</b>[w]
+每次來教堂，妹妹和我都會一起彈著這首歌...[w]
+[QuestComplete]RecallSong;[End]
+[/1]
+[2][End]
+[/2]

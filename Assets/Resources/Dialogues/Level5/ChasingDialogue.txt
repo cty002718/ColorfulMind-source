@@ -1,0 +1,5 @@
+[Say]死神;站住！
+[Move]5,0,0.3;[Wait]3;
+[w]看來你死意不夠堅決呢...[w]
+不過，你是逃不出這裡的[Move]-5,0,0.5;[Close][Wait]2;
+[QuestComplete]start_chasing;[End]

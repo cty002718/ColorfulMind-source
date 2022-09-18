@@ -1,0 +1,1 @@
+[QuestComplete]read_paper;就在那棵特別的樹下，埋藏著我的過去...[w][End]
